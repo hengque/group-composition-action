@@ -25,6 +25,7 @@ jobs:
         issue-number: 2
         body: |
           This is a multi-line test comment
+          Eleonora
           - With GitHub **Markdown** :sparkles:
           - Created by [create-or-update-comment][1]
 
